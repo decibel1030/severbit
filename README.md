@@ -4,7 +4,7 @@
 Ломаю и чиню веб-приложения, люблю TypeScript и ненавижу баги в продакшене. 
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDNienlhMTJubDllYWF5d2ZpMzN1M3BjenF1dXk0eTlpenl0a21weCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tuxc9Th08v4Uo/giphy.gif" alt="Gif">
+  <img src="https://i.pinimg.com/originals/db/b0/77/dbb077da5bd62d731593fc927db9dbad.gif" alt="Gif">
 </p>
 ## 🛠 Технологический стек  
 
