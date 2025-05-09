@@ -30,7 +30,7 @@
 
 ## 📫 Контакты  
 <p align="left">
-  <a href="https://t.me/severbit">
+  <a href="https://t.me/severbit64">
     <img src="https://img.shields.io/badge/Telegram-@severbit-26A5E4?logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://vk.com/id1030601735">
